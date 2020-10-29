@@ -23,9 +23,9 @@ public class Validator {
 		return input;
 	}
 	
-	public static int getLong(Scanner scnr, String prompt) {
+	public static long getLong(Scanner scnr, String prompt) {
 		System.out.print(prompt);
-		int input = scnr.nextInt();
+		long input = scnr.nextLong();
 		scnr.nextLine(); // <-- clear remainder of line.
 		return input;
 	}

@@ -1,6 +1,7 @@
-China$$$1386000000
-United States$$$325700000
-India$$$1339000000
-Rwanda$$$12210000
-Indonesia$$$267026366
-Russia$$$141722205
+China$$$1386000000$$$Asia
+United States$$$325700000$$$North America
+India$$$1339000000$$$Asia
+Rwanda$$$12210000$$$Africa
+Indonesia$$$12345678$$$Asia
+Russia$$$141722205$$$Asia
+Mexico$$$12345678$$$North America
